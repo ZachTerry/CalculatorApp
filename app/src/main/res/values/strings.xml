@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DPS Calculator</string>
+
+    <string-array name="types">
+        <item>Normal</item>
+        <item>Grass</item>
+        <item>Fire</item>
+        <item>Water</item>
+    </string-array>
+
+    <string-array name="secondTypes">
+    <item>Normal</item>
+    <item>Grass</item>
+    <item>Fire</item>
+    <item>Water</item>
+    <item>None</item>
+</string-array>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/zacht/AndroidStudioProjects/DPSCalculator/app/src/main/res/layout-land/activity_main.xml" value="0.391025641025641" />
+        <entry key="..\:/Users/zacht/AndroidStudioProjects/DPSCalculator/app/src/main/res/layout-port/activity_main.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/zacht/AndroidStudioProjects/DPSCalculator/app/src/main/res/layout-port/portrait.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/zacht/AndroidStudioProjects/DPSCalculator/app/src/main/res/layout/activity_main.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/zacht/AndroidStudioProjects/DPSCalculator/app/src/main/res/layout/activity_main_landsacpe.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/zacht/AndroidStudioProjects/DPSCalculator/app/src/main/res/layout/activity_portrait.xml" value="0.33" />
+        <entry key="..\:/Users/zacht/AndroidStudioProjects/DPSCalculator/app/src/main/res/layout/main_portrait.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/zacht/AndroidStudioProjects/DPSCalculator/app/src/main/res/layout/portrait.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/zacht/AndroidStudioProjects/DPSCalculator/app/src/main/res/menu/options_menu.xml" value="0.30085470085470084" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
